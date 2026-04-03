@@ -24,7 +24,7 @@ class MyApplication: Application() {
 //            appSign = "205dceb35039908caae6d61708dd3b384e3040c8d10d3489602ed02540cbdd6c"
 //        }
 
-        ZIMKit.initWith(this, 169005112 ,  "205dceb35039908caae6d61708dd3b384e3040c8d10d3489602ed02540cbdd6c")
+        ZIMKit.initWith(this, 2 ,  "0c8d10d3489602ed02540cbdd6c")
 
     }
 
