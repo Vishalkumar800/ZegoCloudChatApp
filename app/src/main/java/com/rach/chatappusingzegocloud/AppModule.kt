@@ -14,8 +14,8 @@ object AppModule {
     @Singleton
     fun provideZegoConfig(): ZegoConfig{
         return ZegoConfig(
-            appId = 169005112,
-            appSign = "205dceb35039908caae6d61708dd3b384e3040c8d10d3489602ed02540cbdd6c"
+            appId = ,
+            appSign = ""
         )
     }
 
